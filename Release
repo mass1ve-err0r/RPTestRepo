@@ -1,0 +1,8 @@
+Origin: SamplePerson's Repository
+Label: SamplePerson's Repository
+Suite: stable
+Version: 1.0
+Codename: iOSRepository
+Architectures: iphoneos-arm
+Components: main
+Description: SamplePerson's Repository
