@@ -1,22 +1,3 @@
-Package: de.saadatbaig.BIDFetcher
-Name: BIDFetcher
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: SMX
-Description: Fetch AppIcon Images with ease
-Author: SMX
-Section: Tweaks
-Depends: 
-Conflicts: 
-Homepage: https://mass1ve-err0r.github.io/RPTestRepo
-Depiction: https://mass1ve-err0r.github.io/RPTestRepo/cydiad/de.saadatbaig.BIDFetcher.html
-Icon: https://mass1ve-err0r.github.io/RPTestRepo/assets/de.saadatbaig.BIDFetcher_icon.png
-SileoDepiction: https://mass1ve-err0r.github.io/RPTestRepo/sileod/de.saadatbaig.BIDFetcher.json
-Filename: ./debs/de.saadatbaig.BIDFetcher_1.0.deb
-Size: 97752
-MD5sum: 9c2b8b5a0f22469cb1c584d52238c56e
-SHA1: 8ba268fbee967f51bbbefc32c0d10ac148ac0a04
-SHA256: c35c6adf59ac3d68ab6004c4e60e71600ee6c49a5c795ba70197d73541dd9de1
 
 Package: de.saadatbaig.BIDFetcher2
 Name: BIDFetcher2
